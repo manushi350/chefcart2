@@ -69,6 +69,7 @@ GitHub
 
 Android Emulator
 
+
 📂 Project Structure
 ChefCart
 │
@@ -87,6 +88,8 @@ ChefCart
 ├── build.gradle
 ├── settings.gradle
 └── README.md
+
+
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/yourusername/ChefCart.git
