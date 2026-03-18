@@ -92,7 +92,7 @@ ChefCart
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/ChefCart.git
+git clone https://github.com/manushi350/ChefCart.git
 2️⃣ Open the project
 
 Open the project using Android Studio.
